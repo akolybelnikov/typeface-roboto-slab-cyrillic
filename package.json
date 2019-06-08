@@ -1,0 +1,27 @@
+{
+  "name": "typeface-roboto-slab-cyrillic",
+  "version": "0.0.1",
+  "description": "Typeface Roboto Slab with cyrillic characters",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akolybelnikov/typeface-roboto-slab-cyrillic.git"
+  },
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "roboto-slab",
+    "cyrillic"
+  ],
+  "author": "Andrey Kolybelnikov <a.kolybelnikov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akolybelnikov/typeface-roboto-slab-cyrillic/issues"
+  },
+  "homepage": "https://github.com/akolybelnikov/typeface-roboto-slab-cyrillic#readme"
+}
